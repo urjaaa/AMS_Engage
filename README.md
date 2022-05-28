@@ -32,7 +32,7 @@ In today's world, facial recognition is becoming more common. In terms of securi
 [Link To Video](https://drive.google.com/file/d/1wcKeXWrMOsWhHUB7ZBvERNhwIpAxms5V/view?usp=sharing)
 
 ## Presentation 
-[Link To Presentation](https://docs.google.com/presentation/d/1Q3e2z0ugZuO5jDsGTE4TaPcCC9ugw_qB/edit?usp=sharing&ouid=114997432610542420124&rtpof=true&sd=true)
+[Link To Presentation](https://docs.google.com/presentation/d/1Q3e2z0ugZuO5jDsGTE4TaPcCC9ugw_qB/edit?usp=sharing&ouid=114997432610542420124&rtpof=true&sd=true)<br>
 [Link To PDF](https://drive.google.com/file/d/1WA_e17jXUocehOAIpSG15W_D3Iy9bRqd/view?usp=sharing)
 
 ---------
