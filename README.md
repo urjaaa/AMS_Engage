@@ -24,8 +24,8 @@ In today's world, facial recognition is becoming more common. In terms of securi
 - After cloning the files on your computer
 - Make a separate python virtual environment or use the default one already installed on your machine
 - Download [this](https://drive.google.com/uc?export=download&id=1HzO-rnEqgkZ6tLt48yWhYgHk1_zOIYhf) file 
- - Put it inside **``` \Attendance-System-Using-Face-Recognition\face_recognition_data ```** directory
-- run **``` pip install -r requirements.txt inside \Attendance-System-Using-Face-Recognition ```** directory
+ - Put it inside **``` \AMS_Engage-main\face_recognition_data ```** directory
+- run **``` pip install -r requirements.txt inside \AMS_Engage-main ```** directory
 - Run **``` python manage.py runserver ```** inside **``` \Attendance-System-Using-Face-Recognition ```** directory to run the project
 
 ## Demonstration Video
